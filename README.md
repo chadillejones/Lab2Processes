@@ -1,6 +1,6 @@
 
-### Getting started
-*Lab 2 Processes*
+### *Lab 2 Processes*
+
 
 Please check make3 for the solution to this problem.
 
