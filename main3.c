@@ -42,7 +42,7 @@ if (child_a == 0) {
       for (i = 1; i <= loop_amount ; i++) {
         printf("Child Pid: %d is going to sleep!\n", getpid());
         sleep((rand() % 10));
-        printf("Child Pid: %d is awake!\nWhere is my Parent: %d?”\n",getpid(), getppid());
+        printf("Child Pid: %d is awake!\nWhere is my Parent: %d?\n",getpid(), getppid());
         
       }
       printf("   *** Child B: %d process is done ***\n", getpid());
